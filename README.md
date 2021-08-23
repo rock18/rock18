@@ -1,4 +1,5 @@
-Hi I'm Rock and I'm currently studying Mathematics and Computer Science in the National Open University of Nigeria
+Hi I'm Rock and I'm currently studying Mathematics and Computer Science in the National Open University of Nigeria.
+
 I have always wanted to use technology to improve learning. on the side, I am working on a project that uses Artificial intelligence and augmented reality to solve the problem of object visualization and interaction with the environment. some of my interests include visualizing mathematical concepts and problems.
 
 I love efficient code that solves complex problems and so far I have been working on backend stuff and also embedded technology especially cortex-m microcontrollers
